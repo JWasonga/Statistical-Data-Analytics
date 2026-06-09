@@ -4,12 +4,12 @@ A collection of statistical, econometric, machine learning, and predictive model
 
 ## Repository Structure
 
-├── 01_Statistical_Inference
-├── 02_Regression_Analysis
-├── 03_Econometrics
-├── 04_Predictive_Modelling
-├── 05_Time_Series_Analysis
-├── 06_Machine_Learning
+- 01_Statistical_Inference
+- 02_Regression_Analysis
+- 03_Econometrics
+- 04_Predictive_Modelling
+- 05_Time_Series_Analysis
+- 06_Machine_Learning
 
 ## Tools Used
 
